@@ -1,0 +1,8 @@
+Username: Akash1
+Password: 123456
+Name: Akash
+Address: House: 45 Road: 98 City: Dhaka
+Phone: 01959214183
+Occupation: Student
+Email ID: akash@.com
+Meter ID: 34

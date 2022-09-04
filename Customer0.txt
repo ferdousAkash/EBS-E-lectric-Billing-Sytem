@@ -1,0 +1,8 @@
+Username: Sadman31
+Password: sadman31
+Name: Sadman31
+Address: House: 13 Road: 12 City: mymensingh
+Phone: 01775860864
+Occupation: student
+Email ID: sad@gmail.com
+Meter ID: 112

@@ -1,0 +1,8 @@
+Username: Akash3
+Password: 123456
+Name: Akasj
+Address: House: 45 Road: 34 City: Djaka
+Phone: 34567897654
+Occupation: sda
+Email ID: as@.com
+Meter ID: 34
